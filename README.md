@@ -1,3 +1,3 @@
 This person is awesome: **Juanmi**
 
-And I hate technical problems
+But _Tanya_ is awesome too.
