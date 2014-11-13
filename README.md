@@ -1,3 +1,1 @@
-
-
-:)
+This person is awesome: ...
